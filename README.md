@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**G-Zanelatto/G-Zanelatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Gabriel</h1>
+<h3>Backend Developer</h3>
 
-Here are some ideas to get you started:
+<p>
+Programming student currently studying Systems Development, graduating in 2026.  
+Currently working in the technology field and continuously improving my development skills.  
+Studying and building projects with <b>Node.js</b>, <b>TypeScript</b>, and <b>NestJS</b>, focusing on backend development and modern web technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=,html,css,js,nodejs,typescript,nestjs" />
+</p>
+  
+---
+
+## 📫 Contact
+
+
+- GitHub: https://github.com/G-Zanelatto
+- Linkedin: www.linkedin.com/in/gabriel-zanelatto-9830b834a
