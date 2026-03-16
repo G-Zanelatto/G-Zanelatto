@@ -20,7 +20,7 @@ Studying and building projects with <b>Node.js</b>, <b>TypeScript</b>, and <b>Ne
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=,html,css,js,nodejs,typescript,nestjs,postgresql,mysql,github" />
+<img src="https://skillicons.dev/icons?i=,html,css,js,nodejs,typescript,nestjs,postgresql,mysql,git" />
 </p>
   
 ---
