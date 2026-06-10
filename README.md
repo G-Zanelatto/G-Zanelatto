@@ -17,7 +17,7 @@ Studying and building projects with <b>Node.js</b>, <b>TypeScript</b>, and <b>Ne
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=,html,css,js,nodejs,typescript,nestjs,postgresql,mysql,git" />
@@ -25,16 +25,16 @@ Studying and building projects with <b>Node.js</b>, <b>TypeScript</b>, and <b>Ne
   
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-> **🦜 ZulCode**
+> ** ZulCode**
 >
 > A gamified programming learning platform, inspired by Duolingo.
 > Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
 
 ---
 
-## 📫 Contact
+## Contact
 
 
 - GitHub: https://github.com/G-Zanelatto
