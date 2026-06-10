@@ -27,7 +27,7 @@ Studying and building projects with <b>Node.js</b>, <b>TypeScript</b>, and <b>Ne
 
 ### Featured Projects
 
-> ** ZulCode**
+> **ZulCode**
 >
 > A gamified programming learning platform, inspired by Duolingo.
 > Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
